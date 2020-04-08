@@ -1,0 +1,23 @@
+commit 3ab8fb21394fa54e41fcf5b4d8987e3b95a79485
+Author: leosanches <skeeterbio@gmail.com>
+Date:   Wed Apr 8 08:55:30 2020 -0300
+
+    added coisinha
+
+commit 190e5ab971867061a5867044d274f310d14442cd
+Author: leosanches <skeeterbio@gmail.com>
+Date:   Wed Apr 8 08:50:26 2020 -0300
+
+    added gitignore
+
+commit 01b03de6517fbcf2cbace45ad891230fb3456880
+Author: leosanches <skeeterbio@gmail.com>
+Date:   Wed Apr 8 08:40:15 2020 -0300
+
+    added two files
+
+commit 3fcbdea2fc20a505bd2b00832b5c4ef50d4532e7
+Author: leosanches <skeeterbio@gmail.com>
+Date:   Wed Apr 8 08:37:27 2020 -0300
+
+    added readme.txt
